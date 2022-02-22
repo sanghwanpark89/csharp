@@ -39,5 +39,11 @@ namespace QuickKartBL
             this.Price = price;
             this.QuantityAvailable = quantityAvailable;
         }
+
+        /*
+         * Method Overloading Rule
+         * Name of method should be same
+         * The number of argument or type should be different
+         */
     }
 }
